@@ -1,6 +1,6 @@
 # HR-Recruitment-System
 
-Here is a sample Python code for this Recruitment Management System. It provides a platform for creating and managing an applicant pool, which consists of already filtered candidates with respect to existing parameters.
+Here is a sample Python readme for this Recruitment Management System. It provides a platform for creating and managing an applicant pool, which consists of already filtered candidates with respect to existing parameters.
 
 ## How it works
 
